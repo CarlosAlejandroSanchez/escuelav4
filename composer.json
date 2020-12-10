@@ -1,0 +1,12 @@
+{
+    "name": "carlos/escuelav4",
+    "description": "proyecto escuela v4",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Carlos Sancehz",
+            "email": "Carlos.sanchez141124@gmail.com"
+        }
+    ],
+    "require": {}
+}
